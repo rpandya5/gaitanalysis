@@ -18,6 +18,7 @@ issue a notification to nearby emergency responders. The use of a neural network
 significantly alleviate the pressure on both the patient and the emergency responders and help fall
 victims to receive immediate and effective care.
 ## Project Illustration
+![alt text](https://github.com/rpandya5/gaitanalysis/blob/main/images/project-illustration.png)
 ## Dataset
 Our model has been trained on the SisFall Dataset. It contains accelerometer and gyroscope sensor data of 19 different types of ADL and 15 different types of Fall, performed by young and old adults. The data has been recorded using the ADXL345 and MMA8451Q accelerometers along with ITG3200 gyroscope. It has been sampled at 200 Hz and is stored in the form of text files containing the x, y and z directional components of all sensors. The procedure given below has been utilized to clean, process and extract all training and testing data. For more information, kindly access:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5298771/
