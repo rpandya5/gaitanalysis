@@ -1,0 +1,1 @@
+Contains the zip file for ADL and Fall Activity Samples collected by the team using an iPhone and the Sensor Logger App https://www.tszheichoi.com/sensorlogger.
